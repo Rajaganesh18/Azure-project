@@ -1,0 +1,9 @@
+{
+	"name": "gsdatafactorynewDemo",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0084aec8-690b-4719-916e-b74faab8227c",
+		"tenantId": "609187e4-d19c-4687-8422-cd2f6e8200f9"
+	}
+}
